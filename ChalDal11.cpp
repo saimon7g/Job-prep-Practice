@@ -1,0 +1,5 @@
+// Implement Game of Life
+
+// In the game of life, you have a 2D matrix of small squares that can be either alive or dead. 
+// The matrix goes through iterations, and on every iteration the squares can die or be revived.
+//  This is based on the previous iteration and the below rules A living square with 1 or less neighbors in the previous iteration will die, as if from loneliness A living square with 2 or 3 neighbors in the previous iteration will survive, as if from contentment A living square with 4 or more neighbors in the previous iteration will die, as if from overpopulation A dead square with exactly 3 neighbors in the previous iteration will be revived, as if by unfulfilled desires Implement a square matrix of size 20 and set up the initial five (given) living squares. Then run 10 iterations on it, then print the final matrix. 0,0 should be the top left of the matrix, where the first is the row and the second is the column. matrix size = 20 iterations = 10 initial squares = [0][0] [1][1]
