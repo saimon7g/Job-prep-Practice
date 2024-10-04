@@ -3,12 +3,20 @@
 using namespace std;
 
 // io  ---> 4 2 1
-// command to run the code is: g++ -std=c++11 -o Chaldal_1 Chaldal_1.cpp && ./Chaldal_1
+// command to run the code is: g++ Chaldal_1.cpp -o Chaldal_1 && ./Chaldal_1 
 // You have been provided a spiral matrix of size NXN along with a coordinate (x, y) as follows. Find the element at the position (x, y) of the matrix. N = 4, x = 2, y =1
 // 1	2	3	4
 // 12	13	14	5
 // 11	16	15	6
 // 10	9	8	7
+
+// LeetCode 54: Spiral Matrix
+// Problem: Given an m x n matrix, return all elements of the matrix in spiral order.
+// Link to problem
+// Another related problem is:
+// LeetCode 59: Spiral Matrix II
+// Problem: Given an integer n, generate an n x n matrix filled with elements from 1 to n² in spiral order.
+// Link to problem
 
 int main (  ) {
 
