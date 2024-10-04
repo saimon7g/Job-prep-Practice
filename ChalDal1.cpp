@@ -3,7 +3,6 @@
 using namespace std;
 
 // io  ---> 4 2 1
-// command to run the code is: g++ Chaldal_1.cpp -o Chaldal_1 && ./Chaldal_1 
 // You have been provided a spiral matrix of size NXN along with a coordinate (x, y) as follows. Find the element at the position (x, y) of the matrix. N = 4, x = 2, y =1
 // 1	2	3	4
 // 12	13	14	5

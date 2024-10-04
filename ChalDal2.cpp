@@ -1,4 +1,8 @@
-// command: g++ -o ChalDal2 ChalDal2.cpp && ./ChalDal2
+// Given a number in roman format. Convert it to arabic numeral.
+// LeetCode 13: Roman to Integer
+// Problem: Given a Roman numeral, convert it to an integer.
+// Link to problem: Roman to Integer - LeetCode
+
 // Example 1:
 // Input:
 // "III"
