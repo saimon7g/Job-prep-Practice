@@ -1,3 +1,0 @@
-# only store .cpp files in the repository nothing else
-*
-!*.cpp
